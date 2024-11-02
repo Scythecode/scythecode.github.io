@@ -360,5 +360,5 @@
 // uwu
 
 <?php
-    print("this site doesn't use php because its old and sucks ;-;");
+    print("this site doesn't use php because its old and sucks!!!");
 ?>
