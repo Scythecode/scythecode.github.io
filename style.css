@@ -93,3 +93,19 @@ body {
     color: var(--subtext0);
     padding: 20px;
 }
+
+.buttons {
+    margin-left: 30%;
+    margin-right: 30%;
+    text-decoration: none;
+    font-size: 32px;
+    color: var(--blue);
+}
+
+.friends {
+    margin-left: 30%;
+    margin-right: 30%;
+    text-decoration: none;
+    font-size: 32px;
+    color: var(--blue);
+}
